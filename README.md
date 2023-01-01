@@ -1,2 +1,1 @@
-# PersonalizedStrengthProgramming
-Personalized strength programming algorithm
+# Sheiko Powerlifting Program Generator
